@@ -269,7 +269,7 @@ Run notebooks in order:
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Planned future work includes:
 
@@ -285,7 +285,7 @@ Planned future work includes:
 
 ---
 
-# 📚 References
+#  References
 
 Concepcion, J., & Olson, E.
 
@@ -301,7 +301,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Hossein Moein**
 
@@ -312,6 +312,7 @@ https://github.com/HochenM
 LinkedIn:
 
 https://www.linkedin.com/in/hossein-moein-276b28271/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdxV%2FhdRESwONVJom7S46tw%3D%3D
+
 ---
 
 If you found this project useful, consider giving it a ⭐.
