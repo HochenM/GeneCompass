@@ -1,0 +1,3 @@
+"""
+GeneCompass source package.
+"""
