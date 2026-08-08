@@ -94,6 +94,8 @@ GeneCompass/
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
+```
+
 
 ---
 
