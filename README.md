@@ -210,6 +210,17 @@ The project exports the most informative genetic markers for downstream biologic
 
 ---
 
+# Model Performance Comparison
+
+| Index | Models | MAE | MSE / RMSE | R² / Score |
+| :---: | :--- | :---: | :---: | :---: |
+| 0 | MAE / MSER | 7.723754 | 107.896098 | 0.350518 |
+| 1 | Lasso | 7.772449 | 108.580882 | 0.346396 |
+| 2 | Ridge | 7.767008 | 108.584944 | 0.346371 |
+| 3 | Random Forest | 7.986628 | 102.287876 | 0.384277 |
+| 4 | XGBoost | 7.663793 | 96.903417 | 0.416689 |
+| 5 | MLP | 8.758542 | 127.782117 | 0.230814 |
+
 # 📌 Results
 
 **Best Model**
@@ -220,9 +231,9 @@ Performance metrics will be updated after final model optimization.
 
 | Metric | Value |
 |---------|------|
-| MAE | TBD |
-| RMSE | TBD |
-| R² | TBD |
+| MAE | 7.663793 |
+| MSE | 96.903417 |
+| R² | 0.416689 |
 
 ---
 
