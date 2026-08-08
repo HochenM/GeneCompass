@@ -74,17 +74,26 @@ GeneCompass/
 │   ├── 02_EDA.ipynb
 │   └── 03_Model_and_Evaluation.ipynb
 │
-├── figures/
+├── results/
+│   ├── figures/
+│   │   ├── prediction_vs_actual/
+│   │   ├── residual_plots/
+│   │   └── residual_histograms/
+│   │
+│   ├── metrics/
+│   │   └── model_comparison.csv
+│   │
+│   └── best_markers/
 │
-├── models/
+├ 
+│   
 │
-├── src/                 # (Coming soon)
+├── src/
 │
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
-```
 
 ---
 
